@@ -179,7 +179,7 @@ Premium,Citraland,150,180,5,4,2,2400000000,Belum,Selatan,,
 Premium,Citraland,200,200,5,4,3,3900000000,Belum,,,> 2 Mobil
 Premium,Pakuwon Indah,312,312,4,4,2,4250000000,Belum,Selatan,,1-2 Mobil
 Below Standard,Mulyorejo,300,400,4,3,2,3900000000,Belum,Utara,,1-2 Mobil
-Premium,Wisata Bukit Mas,160,320,7,4,"2,5",4000000000,Belum,Selatan,Tikungan/Hook,
+Premium,Wisata Bukit Mas,160,320,7,4,2.5,4000000000,Belum,Selatan,Tikungan/Hook,
 Standard,Kebonsari,268,170,4,2,1,2000000000,Belum,Timur,,
 Premium,Wiyung,120,250,5,5,3,1900000000,Belum,Utara,,
 Standard,Sukolilo,106,150,5,4,2,2300000000,Belum,Timur,,> 2 Mobil
@@ -189,7 +189,7 @@ Below Standard,Ketintang,120,120,2,2,1,1900000000,Belum,,,
 Below Standard,Tambaksari,140,130,3,2,1,1100000000,Belum,Barat,,
 Standard,Tambaksari,120,90,4,3,1,725000000,Belum,,,
 Premium,Wonocolo,754,530,7,5,2,14000000000,Belum,Selatan,,1-2 Mobil
-Below Standard,Tambaksari,200,200,3,2,"1,5",1600000000,Belum,,,
+Below Standard,Tambaksari,200,200,3,2,1.5,1600000000,Belum,,,
 Standard,Sukolilo,240,180,3,3,1,3850000000,Belum,,,
 Below Standard,Raya Margorejo,300,250,5,4,1,2600000000,Belum,Utara,,> 2 Mobil
 Premium,Kenjeran,107,145,5,5,2,1900000000,Belum,Utara,,
@@ -197,7 +197,7 @@ Premium,Tegalsari,942,635,8,3,1,25000000000,Belum,Utara,Tikungan/Hook,> 2 Mobil
 Standard,Citraland,105,84,2,1,1,1000000000,Belum,Barat,,
 Premium,Sukolilo,135,225,5,4,2,4100000000,Belum,Timur,,> 2 Mobil
 Premium,Citraland,135,140,4,3,2,2300000000,Belum,Selatan,,
-Standard,Sukolilo,160,160,4,3,"1,5",2100000000,Belum,,,1-2 Mobil
+Standard,Sukolilo,160,160,4,3,1.5,2100000000,Belum,,,1-2 Mobil
 Premium,Rungkut,120,140,4,2,2,1600000000,Belum,Utara,,1-2 Mobil
 Standard,Rungkut,135,135,4,3,2,1400000000,Belum,Utara,,1-2 Mobil
 Standard,Petemon,70,70,2,1,1,500000000,Belum,Barat,,< 1 Mobil
@@ -208,7 +208,7 @@ Standard,Mulyorejo,120,200,5,4,2,2100000000,Belum,Selatan,,1-2 Mobil
 Sangat Premium,Graha,360,500,5,5,2,10500000000,Belum,Selatan,,
 Premium,Manyar,225,350,5,4,3,4750000000,Belum,Utara,Cul De Sac/Ujung Gang Buntu,
 Standard,Gubeng,34,50,2,2,2,825000000,Belum,,Tusuk Sate,1-2 Mobil
-Standard,Manyar,200,180,4,3,"1,5",3299000000,Belum,Utara,,1-2 Mobil
+Standard,Manyar,200,180,4,3,1.5,3299000000,Belum,Utara,,1-2 Mobil
 Premium,Klampis Ngasem,96,190,6,4,3,2200000000,Belum,Timur,,1-2 Mobil
 Standard,Mayjend Sungkono,480,300,4,3,2,19500000000,Belum,Utara,,> 2 Mobil
 Standard,Medokan Ayu,100,50,2,1,2,775000000,Belum,,,1-2 Mobil
@@ -259,7 +259,7 @@ Premium,Citraland,210,325,6,5,2,4250000000,Belum,Selatan,Standard,> 2 Mobil
 Premium,Citraland,180,295,5,4,2,3750000000,Belum,Utara,Standard,> 2 Mobil
 Premium,Citraland,436,659,9,5,2,6500000000,Belum,Utara,Standard,> 2 Mobil
 Standard,Darmo,190,260,4,4,2,3900000000,Belum,Utara,Standard,
-Standard,Baratajaya,127,120,5,3,"2,5",1985000000,Belum,Selatan,Standard,> 2 Mobil
+Standard,Baratajaya,127,120,5,3,2.5,1985000000,Belum,Selatan,Standard,> 2 Mobil
 Premium,Citraland,120,95,3,2,1,1500000000,Belum,,Standard,> 2 Mobil
 Standard,Wonokromo,280,222,3,1,1,3500000000,Belum,Timur,Standard,> 2 Mobil
 Premium,Merr,67,100,3,3,2,1200000000,Belum,Timur,,> 2 Mobil
@@ -267,16 +267,16 @@ Premium,Mulyorejo,96,135,4,4,2,1850000000,Belum,Timur,Standard,> 2 Mobil
 Premium,Rungkut,60,72,3,2,2,1080000000,Belum,Utara,Standard,1-2 Mobil
 Premium,Gayungan,92,150,4,3,2,2200000000,Belum,Selatan,Tikungan/Hook,> 2 Mobil
 Standard,Wonocolo,240,320,9,5,2,2500000000,Belum,Selatan,,1-2 Mobil
-Sangat Premium,Citraland,240,425,6,6,"2,5",6100000000,Belum,Utara,Standard,
+Sangat Premium,Citraland,240,425,6,6,2.5,6100000000,Belum,Utara,Standard,
 Sangat Premium,Gubeng,1000,1000,5,5,3,35000000000,Belum,Timur,,> 2 Mobil
 Premium,Gayungan,123,200,5,5,2,3100000000,Belum,Selatan,Standard,
 Standard,Gununganyar,87,55,2,1,2,725000000,Belum,Utara,,1-2 Mobil
-Sangat Premium,Darmo,580,1100,6,8,"2,5",19000000000,Belum,Utara,Tikungan/Hook,
+Sangat Premium,Darmo,580,1100,6,8,2.5,19000000000,Belum,Utara,Tikungan/Hook,
 Premium,Prapen,165,242,4,3,2,3500000000,Belum,Utara,,1-2 Mobil
 Standard,Citraland,180,130,4,3,1,2600000000,Belum,Selatan,Standard,
 Standard,Citraland,55,56,2,2,2,1150000000,Belum,Timur,Standard,
 Premium,Citraland,188,188,5,7,2,3300000000,Belum,,Standard,> 2 Mobil
-Premium,Mulyorejo,210,400,4,4,"2,5",3800000000,Belum,Utara,Tikungan/Hook,> 2 Mobil
+Premium,Mulyorejo,210,400,4,4,2.5,3800000000,Belum,Utara,Tikungan/Hook,> 2 Mobil
 Standard,Lakarsantri,77,42,2,1,1,550000000,Belum,Selatan,,1-2 Mobil
 Premium,Gununganyar Tambak,112,150,3,3,2,2450000000,Belum,Selatan,,1-2 Mobil
 Premium,Klampis Ngasem,132,180,5,4,2,2400000000,Belum,Utara,,> 2 Mobil
